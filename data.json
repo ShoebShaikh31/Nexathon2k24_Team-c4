@@ -1,218 +1,412 @@
 [
-    {
-      "name": "JP Codename Highway Touch",
-      "price": 9900000,
-      "location": "Andheri East",
-      "images-links": "https://assets.nobroker.in/media/building/8a9fdc8284b364740184b39a07de2c72/images/8a9fdc8284b364740184b39a07de2c72_project_image_aKBFrsqM1c1697458927664_68835_iris_medium.jpg"
-    },
-    {
-      "name": "Lodha Woods",
-      "price": 21400000,
-      "location": "Kandivali East",
-      "images-links": "https://is1-3.housingcdn.com/4f2250e8/1dc9872e11eeb865cc9fbc4d8dc01cc7/v0/medium/lodha_woods-kandivali_east-mumbai-lodha_group.jpeg"
-    },
-    {
-      "name": "Empire Towers",
-      "price": 12100000,
-      "location": "Goregaon East",
-      "images-links": "https://lh3.googleusercontent.com/Me5xMe3HkFQ0oSee7cNVEVk3xdMtym86q9NjOxOHVh1a8UoKgjppW31G3Z4D0ELLGScYtHwR2YNPdn3TQMxS=w3840-h3840-c-rw-v3"
-    },
-    {
-      "name": "JP North Barcelona",
-      "price": 6848000,
-      "location": "Mira Road",
-      "images-links": "https://is1-3.housingcdn.com/4f2250e8/50b5aa03a9892ed10dea9b1df9c1f41e/v0/medium/jp_north_barcelona-mira_road_east-mumbai-jp_infra_%28mumbai%29_pvt_ltd.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji The Canvas Residences",
-      "price": 22033496,
-      "location": "Sewri",
-      "images-links": "https://static.squareyards.com/resources/images/mu…lonji-the-canvas-residences-project-flagship1.jpg"
-    },
-    {
-      "name": "GHP Mars Suncity",
-      "price": 11038000,
-      "location": "Powai",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-ghp-mars-suncity-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Virar Palm Grove",
-      "price": 5686000,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-virar-palm-grove-project-flagship1.jpg"
-    },
-    {
-      "name": "Lodha Vikhroli",
-      "price": 15300000,
-      "location": "Vikhroli West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-vikhroli-project-flagship1.jpg"
-    },
-    {
-      "name": "Paradigm Antalya",
-      "price": 8600000,
-      "location": "Oshiwara",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-paradigm-antalya-project-flagship1-1129.jpg"
-    },
-    {
-      "name": "Chandak 34 Park Estate",
-      "price": 12500000,
-      "location": "Goregaon West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-chandak-34-park-estate-project-flagship1.jpg"
-    },
-    {
-      "name": "Origin Wisteria Square",
-      "price": 6500000,
-      "location": "Mira Road",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-origin-wisteria-square-project-flagship1.jpg"
-    },
-    {
-      "name": "Raghav Paradise",
-      "price": 10100000,
-      "location": "Borivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-raghav-paradise-project-flagship1.jpg"
-    },
-    {
-      "name": "Mayfair Sara Virar",
-      "price": 3580000,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-mayfair-sara-virar-project-flagship1.jpg"
-    },
-    {
-      "name": "MICL Aaradhya Prime Park",
-      "price": 6800000,
-      "location": "Mira Road",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-micl-prime-park-project-flagship1.jpg"
-    },
-    {
-      "name": "Mayfair Housing Virar Gardens",
-      "price": 3660000,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-mayfair-housing-virar-gardens-project-flagship.jpg"
-    },
-    {
-      "name": "Lodha The Park Side",
-      "price": 63674000,
-      "location": "Worli",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-the-park-side-project-flagship1.jpg"
-    },
-    {
-      "name": "JP Codename Hotcake",
-      "price": 6199000,
-      "location": "Mira Road",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-jp-codename-hotcake-flagshipimg1.jpg"
-    },
-    {
-      "name": "Dosti Eastern Bay Phase 1",
-      "price": 17607000,
-      "location": "Wadala",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-dosti-eastern-bay-phase-1-project-flagship1.jpg"
-    },
-    {
-      "name": "Lodha Vista",
-      "price": 32500000,
-      "location": "Lower Parel",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-vista-project-flagship1.jpg"
-    },
-    {
-      "name": "LnT Veridian",
-      "price": 12800000,
-      "location": "Powai",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lnt-veridian-project-flagship1.jpg"
-    },
-    {
-      "name": "Lodha Codename Must Have",
-      "price": 0,
-      "location": "Lower Parel",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-codename-must-have-project-flagship1.jpg"
-    },
-    {
-      "name": "Lodha NCP Commercial Tower Supremus",
-      "price": 0,
-      "location": "Wadala",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-ncp-commercial-tower-supremus-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Aubburn Wing C",
-      "price": 9300000,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-c-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Aubburn Wing B",
-      "price": 9300000,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-b-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Aubburn Wing A",
-      "price": 21200000,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-a-project-flagship1.jpg"
-    },
-    {
-      "name": "Kalpataru Vienta Tower A",
-      "price": 35065000,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-kalpataru-vienta-tower-a-project-flagship1.jpg"
-    },
-    {
-      "name": "JP North Alexa",
-      "price": 6999000,
-      "location": "Mira Road",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-jp-north-alexa-project-flagship1.jpg"
-    },
-    {
-      "name": "Kalpataru Vienta Tower B",
-      "price": 27500000,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-kalpataru-vienta-tower-b-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Joyville Virar Phase 5",
-      "price": 5157941,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-5-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Joyville Virar Phase 4",
-      "price": 5157941,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-4-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Joyville Virar Phase 3",
-      "price": 6378411,
-      "location": "Virar West",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-3-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Siennaa Wing F",
-      "price": 11351166,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-f-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Siennaa Wing E",
-      "price": 11351166,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-e-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Siennaa Wing B",
-      "price": 11013166,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-b-project-flagship1.jpg"
-    },
-    {
-      "name": "Shapoorji Pallonji Siennaa Wing A",
-      "price": 11013166,
-      "location": "Kandivali East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-a-project-flagship1.jpg"
-    },
-    {
-      "name": "Chandak Nishchay Wing F",
-      "price": 8500000,
-      "location": "Dahisar East",
-      "images-links": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-chandak-nishchay-wing-f-project-flagship1.jpg"
-    }
-  ]
+  {
+    "name": "JP Codename Highway Touch",
+    "price": 9900000,
+    "location": "Andheri East",
+    "bhk": 2,
+    "area": 1200,
+    "latitude": 19.1197,
+    "longitude": 72.8464,
+    "images": "https://assets.nobroker.in/media/building/8a9fdc8284b364740184b39a07de2c72/images/8a9fdc8284b364740184b39a07de2c72_project_image_aKBFrsqM1c1697458927664_68835_iris_medium.jpg"
+  },
+  {
+    "name": "Lodha Woods",
+    "price": 21400000,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1800,
+    "latitude": 19.2058,
+    "longitude": 72.8646,
+    "images": "https://is1-3.housingcdn.com/4f2250e8/1dc9872e11eeb865cc9fbc4d8dc01cc7/v0/medium/lodha_woods-kandivali_east-mumbai-lodha_group.jpeg"
+  },
+  {
+    "name": "Empire Towers",
+    "price": 12100000,
+    "location": "Goregaon East",
+    "bhk": 2,
+    "area": 1500,
+    "latitude": 19.1645,
+    "longitude": 72.8493,
+    "images": "https://lh3.googleusercontent.com/Me5xMe3HkFQ0oSee7cNVEVk3xdMtym86q9NjOxOHVh1a8UoKgjppW31G3Z4D0ELLGScYtHwR2YNPdn3TQMxS=w3840-h3840-c-rw-v3"
+  },
+  {
+    "name": "JP North Barcelona",
+    "price": 6848000,
+    "location": "Mira Road",
+    "bhk": 2,
+    "area": 1250,
+    "latitude": 19.2805,
+    "longitude": 72.8717,
+    "images": "https://is1-3.housingcdn.com/4f2250e8/50b5aa03a9892ed10dea9b1df9c1f41e/v0/medium/jp_north_barcelona-mira_road_east-mumbai-jp_infra_%28mumbai%29_pvt_ltd.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji The Canvas Residences",
+    "price": 22033496,
+    "location": "Sewri",
+    "bhk": 4,
+    "area": 2400,
+    "latitude": 19.0078,
+    "longitude": 72.8511,
+    "images": "https://static.squareyards.com/resources/images/mu…lonji-the-canvas-residences-project-flagship1.jpg"
+  },
+  {
+    "name": "GHP Mars Suncity",
+    "price": 11038000,
+    "location": "Powai",
+    "bhk": 3,
+    "area": 1700,
+    "latitude": 19.1185,
+    "longitude": 72.907,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-ghp-mars-suncity-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Virar Palm Grove",
+    "price": 5686000,
+    "location": "Virar West",
+    "bhk": 2,
+    "area": 1100,
+    "latitude": 19.4694,
+    "longitude": 72.8364,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-virar-palm-grove-project-flagship1.jpg"
+  },
+  {
+    "name": "Lodha Vikhroli",
+    "price": 15300000,
+    "location": "Vikhroli West",
+    "bhk": 3,
+    "area": 1600,
+    "latitude": 19.1036,
+    "longitude": 72.9289,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-vikhroli-project-flagship1.jpg"
+  },
+  {
+    "name": "Paradigm Antalya",
+    "price": 8600000,
+    "location": "Oshiwara",
+    "bhk": 2,
+    "area": 1250,
+    "latitude": 19.1466,
+    "longitude": 72.8347,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-paradigm-antalya-project-flagship1-1129.jpg"
+  },
+  {
+    "name": "Chandak 34 Park Estate",
+    "price": 12500000,
+    "location": "Goregaon West",
+    "bhk": 3,
+    "area": 1800,
+    "latitude": 19.1646,
+    "longitude": 72.8333,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-chandak-34-park-estate-project-flagship1.jpg"
+  },
+  {
+    "name": "Origin Wisteria Square",
+    "price": 6500000,
+    "location": "Mira Road",
+    "bhk": 2,
+    "area": 1050,
+    "latitude": 19.2804,
+    "longitude": 72.8508,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-origin-wisteria-square-project-flagship1.jpg"
+  },
+  {
+    "name": "Raghav Paradise",
+    "price": 10100000,
+    "location": "Borivali East",
+    "bhk": 3,
+    "area": 1500,
+    "latitude": 19.2283,
+    "longitude": 72.8567,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-raghav-paradise-project-flagship1.jpg"
+  },
+  {
+    "name": "Mayfair Sara Virar",
+    "price": 3580000,
+    "location": "Virar West",
+    "bhk": 1,
+    "area": 600,
+    "latitude": 19.4539,
+    "longitude": 72.7992,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-mayfair-sara-virar-project-flagship1.jpg"
+  },
+  {
+    "name": "MICL Aaradhya Prime Park",
+    "price": 6800000,
+    "location": "Mira Road",
+    "bhk": 2,
+    "area": 1100,
+    "latitude": 19.2766,
+    "longitude": 72.8697,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-micl-prime-park-project-flagship1.jpg"
+  },
+  {
+    "name": "Mayfair Housing Virar Gardens",
+    "price": 3660000,
+    "location": "Virar West",
+    "bhk": 2,
+    "area": 900,
+    "latitude": 19.4609,
+    "longitude": 72.7993,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-mayfair-housing-virar-gardens-project-flagship.jpg"
+  },
+  {
+    "name": "Lodha The Park Side",
+    "price": 63674000,
+    "location": "Worli",
+    "bhk": 5,
+    "area": 3200,
+    "latitude": 18.9987,
+    "longitude": 72.8174,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-the-park-side-project-flagship1.jpg"
+  },
+  {
+    "name": "JP Codename Hotcake",
+    "price": 6199000,
+    "location": "Mira Road",
+    "bhk": 2,
+    "area": 1050,
+    "latitude": 19.2892,
+    "longitude": 72.8726,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-jp-codename-hotcake-flagshipimg1.jpg"
+  },
+  {
+    "name": "Dosti Eastern Bay Phase 1",
+    "price": 17607000,
+    "location": "Wadala",
+    "bhk": 3,
+    "area": 1850,
+    "latitude": 19.0316,
+    "longitude": 72.8584,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-dosti-eastern-bay-phase-1-project-flagship1.jpg"
+  },
+  {
+    "name": "Lodha Vista",
+    "price": 32500000,
+    "location": "Lower Parel",
+    "bhk": 4,
+    "area": 2500,
+    "latitude": 18.9993,
+    "longitude": 72.8284,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-vista-project-flagship1.jpg"
+  },
+  {
+    "name": "LnT Veridian",
+    "price": 12800000,
+    "location": "Powai",
+    "bhk": 3,
+    "area": 1600,
+    "latitude": 19.1197,
+    "longitude": 72.9051,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lnt-veridian-project-flagship1.jpg"
+  },
+  {
+    "name": "Lodha Codename Must Have",
+    "price": 0,
+    "location": "Lower Parel",
+    "bhk": 3,
+    "area": 1700,
+    "latitude": 19.0048,
+    "longitude": 72.8304,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-codename-must-have-project-flagship1.jpg"
+  },
+  {
+    "name": "Lodha NCP Commercial Tower Supremus",
+    "price": 0,
+    "location": "Wadala",
+    "bhk": "Commercial",
+    "area": 3500,
+    "latitude": 19.0175,
+    "longitude": 72.8583,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-ncp-commercial-tower-supremus-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing C",
+    "price": 9300000,
+    "location": "Kandivali East",
+    "bhk": 2,
+    "area": 1100,
+    "latitude": 19.2099,
+    "longitude": 72.8426,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-c-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing B",
+    "price": 9300000,
+    "location": "Kandivali East",
+    "bhk": 2,
+    "area": 1050,
+    "latitude": 19.2139,
+    "longitude": 72.8384,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-b-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing A",
+    "price": 21200000,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1400,
+    "latitude": 19.2117,
+    "longitude": 72.8365,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-a-project-flagship1.jpg"
+  },
+  {
+    "name": "Kalpataru Vienta Tower A",
+    "price": 35065000,
+    "location": "Kandivali East",
+    "bhk": 4,
+    "area": 2800,
+    "latitude": 19.2061,
+    "longitude": 72.8463,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-kalpataru-vienta-tower-a-project-flagship1.jpg"
+  },
+  {
+    "name": "Lodha NCP Commercial Tower Supremus",
+    "price": 0,
+    "location": "Wadala",
+    "bhk": null,
+    "area": null,
+    "latitude": 19.0321,
+    "longitude": 72.8589,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-lodha-ncp-commercial-tower-supremus-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing C",
+    "price": 9300000,
+    "location": "Kandivali East",
+    "bhk": 2,
+    "area": 1250,
+    "latitude": 19.2074,
+    "longitude": 72.8347,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-c-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing B",
+    "price": 9300000,
+    "location": "Kandivali East",
+    "bhk": 2,
+    "area": 1200,
+    "latitude": 19.2071,
+    "longitude": 72.8349,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-b-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Aubburn Wing A",
+    "price": 21200000,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1800,
+    "latitude": 19.2069,
+    "longitude": 72.8348,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-aubburn-wing-a-project-flagship1.jpg"
+  },
+  {
+    "name": "Kalpataru Vienta Tower A",
+    "price": 35065000,
+    "location": "Kandivali East",
+    "bhk": 4,
+    "area": 2500,
+    "latitude": 19.2147,
+    "longitude": 72.8529,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-kalpataru-vienta-tower-a-project-flagship1.jpg"
+  },
+  {
+    "name": "JP North Alexa",
+    "price": 6999000,
+    "location": "Mira Road",
+    "bhk": 2,
+    "area": 1100,
+    "latitude": 19.2726,
+    "longitude": 72.8719,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-jp-north-alexa-project-flagship1.jpg"
+  },
+  {
+    "name": "Kalpataru Vienta Tower B",
+    "price": 27500000,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 2000,
+    "latitude": 19.2147,
+    "longitude": 72.8529,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-kalpataru-vienta-tower-b-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Joyville Virar Phase 5",
+    "price": 5157941,
+    "location": "Virar West",
+    "bhk": 2,
+    "area": 1000,
+    "latitude": 19.4417,
+    "longitude": 72.8258,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-5-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Joyville Virar Phase 4",
+    "price": 5157941,
+    "location": "Virar West",
+    "bhk": 2,
+    "area": 1050,
+    "latitude": 19.4424,
+    "longitude": 72.8252,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-4-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Joyville Virar Phase 3",
+    "price": 6378411,
+    "location": "Virar West",
+    "bhk": 3,
+    "area": 1400,
+    "latitude": 19.4432,
+    "longitude": 72.8246,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-joyville-virar-phase-3-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Siennaa Wing F",
+    "price": 11351166,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1500,
+    "latitude": 19.2062,
+    "longitude": 72.8347,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-f-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Siennaa Wing E",
+    "price": 11351166,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1550,
+    "latitude": 19.206,
+    "longitude": 72.8346,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-e-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Siennaa Wing B",
+    "price": 11013166,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1600,
+    "latitude": 19.2058,
+    "longitude": 72.8345,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-b-project-flagship1.jpg"
+  },
+  {
+    "name": "Shapoorji Pallonji Siennaa Wing A",
+    "price": 11013166,
+    "location": "Kandivali East",
+    "bhk": 3,
+    "area": 1650,
+    "latitude": 19.2056,
+    "longitude": 72.8344,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-shapoorji-pallonji-siennaa-wing-a-project-flagship1.jpg"
+  },
+  {
+    "name": "Chandak Nishchay Wing F",
+    "price": 8500000,
+    "location": "Dahisar East",
+    "bhk": 2,
+    "area": 1200,
+    "latitude": 19.2619,
+    "longitude": 72.8674,
+    "images": "https://static.squareyards.com/resources/images/mumbai/tn-projectflagship/tn-chandak-nishchay-wing-f-project-flagship1.jpg"
+  }
+]

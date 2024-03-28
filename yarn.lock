@@ -6123,7 +6123,7 @@ instantsearch-ui-components@0.4.0:
   dependencies:
     "@babel/runtime" "^7.1.2"
 
-instantsearch.js@^4.66.0:
+instantsearch.js@^4.66.0, instantsearch.js@4.66.0:
   version "4.66.0"
   resolved "https://registry.npmjs.org/instantsearch.js/-/instantsearch.js-4.66.0.tgz"
   integrity sha512-85HVTVBfO0QUBPfbCx2wPE9wEsnWQqWl8IHEOni4567IhH//CwbWv8PwHhT7rBrxSCHsxrgnMTe5dFMz7yc+/A==
@@ -9505,6 +9505,16 @@ react-image-gallery@^1.2.7:
   resolved "https://registry.npmjs.org/react-image-gallery/-/react-image-gallery-1.2.7.tgz"
   integrity sha512-ts7yMWykvZhslGMuvVAUk7a1dJIx9QtIwK6Clv8dOGxPsJid92FRrLvXbZDvkYcUyj48sHalnBhqU6mZNCB2jg==
 
+react-instantsearch-core@^7.7.0:
+  version "7.7.0"
+  resolved "https://registry.npmjs.org/react-instantsearch-core/-/react-instantsearch-core-7.7.0.tgz"
+  integrity sha512-omUwh5JoYBOn/aa7iNtyD7t3FkJqcyscWdKaJ6VStsdAt1biDZQPpYkTG5xyZiSQ2mht99GqMm1OY1VM+zDumg==
+  dependencies:
+    "@babel/runtime" "^7.1.2"
+    algoliasearch-helper "3.16.3"
+    instantsearch.js "4.66.0"
+    use-sync-external-store "^1.0.0"
+
 react-instantsearch-core@6.40.4:
   version "6.40.4"
   resolved "https://registry.npmjs.org/react-instantsearch-core/-/react-instantsearch-core-6.40.4.tgz"
@@ -9658,7 +9668,7 @@ react-slick@^0.28.1:
     lodash.debounce "^4.0.8"
     resize-observer-polyfill "^1.5.0"
 
-react@*, "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^0.14.0 || ^15.0.1 || ^16.0.0 || ^17.0.0", "react@^16.0.0 || ^17.0.0", react@^17.0.1, "react@>= 16.3.0 < 19", react@>=15, react@17.0.2:
+react@*, "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^0.14.0 || ^15.0.1 || ^16.0.0 || ^17.0.0", "react@^16.0.0 || ^17.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", react@^17.0.1, "react@>= 16.3.0 < 19", "react@>= 16.8.0 < 19", react@>=15, react@17.0.2:
   version "17.0.2"
   resolved "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
   integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
@@ -11470,6 +11480,11 @@ url@^0.11.0:
   dependencies:
     punycode "1.3.2"
     querystring "0.2.0"
+
+use-sync-external-store@^1.0.0:
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/use-sync-external-store/-/use-sync-external-store-1.2.0.tgz"
+  integrity sha512-eEgnFxGQ1Ife9bzYs6VLi8/4X6CObHMw9Qr9tPY43iKwsPw8xE8+EFsf/2cFZ5S3esXgpWgtSCtLNS41F+sKPA==
 
 use@^3.1.0:
   version "3.1.1"
